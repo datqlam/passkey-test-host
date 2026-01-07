@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bmo.mobile",
+      "sha256_cert_fingerprints": [
+        "C8:4B:A6:C6:F5:C7:F4:A6:0A:E2:9A:9D:C5:D2:16:62:C4:FF:6E:8D:07:65:B0:5B:3E:E3:7A:4F:CB:71:03:D5" 
+      ]
+    }
+  }
+]
