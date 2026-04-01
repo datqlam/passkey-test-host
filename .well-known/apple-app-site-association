@@ -1,1 +1,5 @@
-Add apple app site for Paskey API
+{
+  "webcredentials": {
+      "apps": [ "RKM44E8GYS.com.bmo.enterprise.umobile" ]
+  }
+}
